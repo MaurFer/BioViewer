@@ -4,3 +4,4 @@
 *.xml
 
 .idea/LMVTK.iml
+*.pyc
